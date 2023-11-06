@@ -28,3 +28,16 @@ You can add the names and links to your problem solutions.
 ## Folder Structure
 
 The repository is organized into folders, with each folder corresponding a specific Data Structures. 
+This organized structure makes it easier for others to navigate and find specific problems and their solutions.
+
+## Usage
+
+You can clone this repository and use the provided solutions to practice and learn from. Each problem's folder contains a description of the problem and its solution.
+
+## Contributing
+
+If you'd like to contribute to this repository by adding more problem solutions or improving existing ones, please follow our [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
