@@ -5,7 +5,7 @@ This repository contains solutions to 100 LeetCode problems that cover a wide ra
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Problems](#problems)
+- [Problems](#Topics Covered)
 - [Folder Structure](#folder-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -15,25 +15,32 @@ This repository contains solutions to 100 LeetCode problems that cover a wide ra
 
 LeetCode is a platform that provides a collection of coding challenges that can help you prepare for technical interviews. This repository aims to provide solutions to 100 different problems to help you practice and improve your coding skills.
 
-## Problems
+In the world of computer science and programming, a solid grasp of data structures and algorithms is essential. This repository serves as a comprehensive guide with solutions and explanations for various data structures and algorithms topics.
 
-Here is the list of problems solved in this repository:
+## Topics Covered
 
-1. [Problem 1](problem1/): Description and solution.
-2. [Problem 2](problem2/): Description and solution.
-3. ...
+Here is a list of data structures and algorithms topics covered in this repository:
 
-You can add the names and links to your problem solutions.
+1. Arrays and Lists
+2. Stacks and Queues
+3. Linked Lists
+4. Trees (Binary Trees, Binary Search Trees, etc.)
+5. Graphs (Graph Traversal)
+7. Searching Algorithms (Binary Search, Linear Search, etc.)
+8. Dynamic Programming
+9. Hashing and Hash Tables
+
+
+
 
 ## Folder Structure
 
-The repository is organized into folders, with each folder corresponding a specific Data Structures. 
-This organized structure makes it easier for others to navigate and find specific problems and their solutions.
+The repository is organized into folders, with each folder corresponding to a specific data structures or algorithms topic. The folder structure might look like this:
+arrays-and-lists/explanation.mdexample-code.py
 
 ## Usage
 
-You can clone this repository and use the provided solutions to practice and learn from. Each problem's folder contains a description of the problem and its solution.
-
+You can clone this repository and use the provided solutions to practice and learn from it.
 ## Contributing
 
 If you'd like to contribute to this repository by adding more problem solutions or improving existing ones, please follow our [contribution guidelines](CONTRIBUTING.md).
