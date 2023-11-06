@@ -27,4 +27,4 @@ You can add the names and links to your problem solutions.
 
 ## Folder Structure
 
-The repository is organized into folders, with each folder corresponding to a specific problem. The folder structure might look like this:
+The repository is organized into folders, with each folder corresponding to a specific Data Structures. The folder structure might look like this:
