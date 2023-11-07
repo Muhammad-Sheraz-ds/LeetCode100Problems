@@ -1,4 +1,4 @@
-- <H1>[My LeetCode Profile]</H1>H1>(https://leetcode.com/MuhammadSheraz/)
+# [My LeetCode Profile](https://leetcode.com/MuhammadSheraz/)
 
 # LeetCode 100 Problems
 
