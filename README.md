@@ -1,4 +1,4 @@
-<h1>- [Muhammad Sheraz's LeetCode Profile](https://leetcode.com/MuhammadSheraz/)</h1>
+- [Muhammad Sheraz's LeetCode Profile](https://leetcode.com/MuhammadSheraz/)
 
 # LeetCode 100 Problems
 
