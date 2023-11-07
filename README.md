@@ -5,7 +5,7 @@ This repository contains solutions to 100 LeetCode problems that cover a wide ra
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Problems](#Topics Covered)
+- [Problems](#Topics-Covered)
 - [Folder Structure](#folder-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -44,7 +44,3 @@ You can clone this repository and use the provided solutions to practice and lea
 ## Contributing
 
 If you'd like to contribute to this repository by adding more problem solutions or improving existing ones, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
