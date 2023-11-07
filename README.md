@@ -1,3 +1,5 @@
+<h1>- [Muhammad Sheraz's LeetCode Profile](https://leetcode.com/MuhammadSheraz/)</h1>
+
 # LeetCode 100 Problems
 
 This repository contains solutions to 100 LeetCode problems that cover a wide range of data structures and algorithms. These problems are great for practicing and improving your problem-solving skills.
@@ -44,3 +46,5 @@ You can clone this repository and use the provided solutions to practice and lea
 ## Contributing
 
 If you'd like to contribute to this repository by adding more problem solutions or improving existing ones, please follow our [contribution guidelines](CONTRIBUTING.md).
+
+- [Muhammad Sheraz's LeetCode Profile](https://leetcode.com/MuhammadSheraz/)
