@@ -5,7 +5,7 @@ This repository contains solutions to 100 LeetCode problems that cover a wide ra
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Problems](#Topics-Covered)
+- [Topics Covered](#Topics-Covered)
 - [Folder Structure](#folder-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
